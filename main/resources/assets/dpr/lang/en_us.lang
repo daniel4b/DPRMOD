@@ -1,0 +1,22 @@
+
+//Food
+item.brood.name=Brood
+
+//Blocks
+tile.subwoofer_block.name=Subwoofer
+tile.beeldscherm_block.name=Beeldscherm
+tile.toetsenbord_block.name=Toetsenbord
+tile.muis_block.name=Muis
+tile.prullenbak_block.name=Prullenbak
+
+//Chests
+tile.opslagkist_chest.name=Opslag Kist
+
+//Armor
+item.adidas_helmet.name=Adidas Helmet
+item.adidas_chestplate.name=Adidas Chestplate
+item.adidas_leggings.name=Adidas Leggings
+item.adidas_boots.name=Adidas Boots
+
+//Tabs
+itemGroup.tutorialtab=DPR MOD

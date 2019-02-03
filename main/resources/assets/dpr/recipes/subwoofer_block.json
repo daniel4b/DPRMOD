@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##B",
+        "##B",
+        "##B"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:concrete",
+            "data": 15
+        },
+        "B": {
+            "item": "minecraft:wool",
+            "data": 15
+        }
+    },
+    "result": {
+        "item": "dpr:subwoofer_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:concrete",
+            "data": 15
+        },
+        "B": {
+            "item": "minecraft:wool",
+            "data": 15
+        }
+    },
+    "result": {
+        "item": "dpr:beeldscherm_block",
+        "count": 1
+    }
+}

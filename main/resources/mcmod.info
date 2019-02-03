@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dpr",
+  "name": "DPR MOD",
+  "description": "Een Minecraft MOD!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://www.youtube.com/channel/UCzUeEUEvyOTNNWePd3JAnMQ",
+  "updateUrl": "",
+  "authorList": ["daniel4b"],
+  "credits": "Naar daniel voor het maken van de MOD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
