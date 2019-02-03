@@ -1,0 +1,25 @@
+{
+"variants": { 
+    "normal": { 
+        "model": "dpr:muis_block" 
+    }, 
+    "inventory": { 
+        "model": "dpr:muis_block" 
+    }, 
+    "facing=north": { 
+        "model": "dpr:muis_block",
+         "y": 180 
+    }, 
+    "facing=east": { 
+        "model": "dpr:muis_block",
+         "y": 270 
+    }, 
+    "facing=south": { 
+        "model": "dpr:muis_block"
+    }, 
+    "facing=west": { 
+        "model": "dpr:muis_block",
+         "y": 90 
+    }
+  }
+}

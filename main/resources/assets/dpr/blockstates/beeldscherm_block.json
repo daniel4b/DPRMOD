@@ -1,0 +1,25 @@
+{
+"variants": { 
+    "normal": { 
+        "model": "dpr:beeldscherm_block" 
+    }, 
+    "inventory": { 
+        "model": "dpr:beeldscherm_block" 
+    }, 
+    "facing=north": { 
+        "model": "dpr:beeldscherm_block",
+         "y": 180 
+    }, 
+    "facing=east": { 
+        "model": "dpr:beeldscherm_block",
+         "y": 270 
+    }, 
+    "facing=south": { 
+        "model": "dpr:beeldscherm_block"
+    }, 
+    "facing=west": { 
+        "model": "dpr:beeldscherm_block",
+         "y": 90 
+    }
+  }
+}

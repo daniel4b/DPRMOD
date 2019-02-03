@@ -1,0 +1,25 @@
+{
+"variants": { 
+    "normal": { 
+        "model": "dpr:prullenbak_block" 
+    }, 
+    "inventory": { 
+        "model": "dpr:prullenbak_block" 
+    }, 
+    "facing=north": { 
+        "model": "dpr:prullenbak_block",
+         "y": 180 
+    }, 
+    "facing=east": { 
+        "model": "dpr:prullenbak_block",
+         "y": 270 
+    }, 
+    "facing=south": { 
+        "model": "dpr:prullenbak_block"
+    }, 
+    "facing=west": { 
+        "model": "dpr:prullenbak_block",
+         "y": 90 
+    }
+  }
+}

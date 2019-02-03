@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@@@",
+        "###"
+    ],
+    "key": {
+        "@": {
+            "item": "minecraft:wool",
+            "data": 14
+        },
+        "#": {
+            "item": "minecraft:concrete",
+            "data": 15
+        }
+    },
+    "result": {
+        "item": "dpr:toetsenbord_block",
+        "count": 1
+    }
+}

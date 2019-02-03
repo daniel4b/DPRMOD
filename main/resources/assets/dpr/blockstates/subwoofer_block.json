@@ -1,0 +1,25 @@
+{
+"variants": { 
+    "normal": { 
+        "model": "dpr:subwoofer_block" 
+    }, 
+    "inventory": { 
+        "model": "dpr:subwoofer_block" 
+    }, 
+    "facing=north": { 
+        "model": "dpr:subwoofer_block",
+         "y": 180 
+    }, 
+    "facing=east": { 
+        "model": "dpr:subwoofer_block",
+         "y": 270 
+    }, 
+    "facing=south": { 
+        "model": "dpr:subwoofer_block"
+    }, 
+    "facing=west": { 
+        "model": "dpr:subwoofer_block",
+         "y": 90 
+    }
+  }
+}
